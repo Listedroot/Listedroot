@@ -13,8 +13,6 @@
 </p>
 
 <p align="center">
-  <img src="https://lanyard-profile-readme.vercel.app/api/1351825562791841832?theme=red&bg=0d1117&borderRadius=15px&animated=true" height="165em" alt="Discord Presence"/>
-</p>
 
 ---
 
@@ -23,7 +21,7 @@
 - 🦀 Currently exploring: **Rust** for systems programming
 - 🏗️ Working on: [Secret Kernel Project]()
 - 🎮 Favorite games: Valorant, Minecraft, Genshin Impact
-- 🧩 Fun fact: I can solve a Rubik's cube in under 30 seconds!
+- � Fun fact: I can solve a Rubik's cube in under 30 seconds!
 
 ### 🛠️ **Tech Stack**
 ```diff
@@ -32,5 +30,5 @@
 + Tools: GCC/Clang, GDB, Make/CMake, Git, Vim
 + Learning: ARM Assembly, Zig
 
-! "There are only two kinds of languages: the ones people complain about and the ones nobody uses."
-!     - Bjarne Stroustrup
+! "Low-level programming is good for the programmer's soul."
+!     - John Carmack
