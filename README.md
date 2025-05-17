@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/MONDERASDOR">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2000&pause=500&color=FF2D00&center=true&vCenter=true&width=500&lines=Hi+there+%F0%9F%91%8B+I'm+MONDERASDOR;Systems+%7C+Low-Level+%7C+Performance;Turning+ones+and+zeros+into+magic" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2000&pause=500&color=FF2D00&center=true&vCenter=true&width=500&lines=Hi+there+%F0%9F%91%8B+I'm+Listed;Systems+%7C+Low-Level+%7C+Performance;Turning+ones+and+zeros+into+magic" alt="Typing animation" />
   </a>
 </p>
 
