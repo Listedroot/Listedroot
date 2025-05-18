@@ -21,7 +21,7 @@
 - 🦀 Currently exploring: **Rust** for systems programming
 - 🏗️ Working on: [Secret Kernel Project]()
 - 🎮 Favorite games: Valorant, Minecraft, Genshin Impact
-- � Fun fact: I can solve a Rubik's cube in under 30 seconds!
+- � Fun fact: my favorite emoji is this 🙂
 
 ### 🛠️ **Tech Stack**
 ```diff
