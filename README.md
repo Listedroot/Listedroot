@@ -16,7 +16,7 @@
 
 ---
 
-### 🔥 **About Me**
+### **About Me**
 - 🖥️ Low-level developer passionate about **systems programming** and **performance optimization**
 - 🦀 Currently exploring: **Rust** for systems programming
 - 🏗️ Working on: [Secret Kernel Project]()
