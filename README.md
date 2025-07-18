@@ -19,7 +19,7 @@
 ### **About Me**
 - 🖥️ Low-level developer passionate about **systems programming** and **performance optimization**
 - 🦀 Currently exploring: **Rust** for systems programming
-- 🏗️ Working on: [Secret Kernel Project]()
+- 🏗️ Working on: [Secret Kernel Project](https://github.com/Listedroot/Listedroot/Elexer)
 - 🎮 Favorite games: Valorant, Minecraft, Genshin Impact
 - � Fun fact: my favorite emoji is this 🙂
 
