@@ -32,3 +32,8 @@
 
 ! "Low-level programming is good for the programmer's soul."
 !     - John Carmack
+```
+# Support Me ?
+if you liked my work i hope you consider supporting it !
+
+[![Donate](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/Listedroot/donate)
